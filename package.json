@@ -1,20 +1,24 @@
 {
-  "name": "fanqier-redpack",
+  "name": "fanqier-wxredpack",
   "version": "0.0.1",
-  "description": "send redpack by enterprise",
+  "description": "微信发企业红包 for node.js",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "MD5": "^1.2.1",
     "request": "^2.53.0",
     "xml2js": "^0.4.6"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Degfy/weixin-redpack.git"
+    "url": "git+https://github.com/Degfy/weixin-redpack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Degfy/weixin-redpack/issues"
   },
   "keywords": [
     "weixin",
@@ -22,8 +26,8 @@
     "redpack",
     "payment",
     "fanqier",
-    "fanqier.cn",
+    "fanqier.cn"
   ],
-  "author": "tvrcgo",
-  "license": "MIT"
+  "author": "tvrcgo, degfy",
+  "homepage": "https://github.com/Degfy/weixin-redpack#readme"
 }
