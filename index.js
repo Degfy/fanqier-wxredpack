@@ -1,5 +1,1 @@
-
-var redpack = require('./lib/redpack');
-
-exports.sendRedpack = redpack.sendRedpack;
-exports.Redpack = redpack.Redpack;
+module.exports = require('./lib/redPacket.js');
