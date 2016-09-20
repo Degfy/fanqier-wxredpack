@@ -1,6 +1,6 @@
 {
   "name": "fanqier-wxredpack",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "微信发企业红包 for node.js",
   "main": "index.js",
   "scripts": {
