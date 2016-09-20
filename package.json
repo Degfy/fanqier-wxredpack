@@ -1,6 +1,6 @@
 {
-  "name": "weixin-redpack",
-  "version": "1.1.1",
+  "name": "fanqier-redpack",
+  "version": "0.0.1",
   "description": "send redpack by enterprise",
   "main": "index.js",
   "dependencies": {
@@ -14,13 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:tvrcgo/weixin-redpack.git"
+    "url": "git@github.com:Degfy/weixin-redpack.git"
   },
   "keywords": [
     "weixin",
     "wechat",
     "redpack",
-    "payment"
+    "payment",
+    "fanqier",
+    "fanqier.cn",
   ],
   "author": "tvrcgo",
   "license": "MIT"
